@@ -1,0 +1,19 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "\"Three.js learning\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StjepanDzojic/threejs.git"
+  },
+  "author": "Stjepan Dzojic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StjepanDzojic/threejs/issues"
+  },
+  "homepage": "https://github.com/StjepanDzojic/threejs#readme"
+}
